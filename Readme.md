@@ -65,4 +65,5 @@ The documentation of Trivy and Tracee does have "contributing" sections for help
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+This is a practice pull request.
 
